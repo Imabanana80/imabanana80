@@ -13,23 +13,14 @@ jobs:
       contents: write
     steps:
 
-      - name: Left
+      - name: Metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: left_metrics.svg
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Singapore
-
-      - name: Right
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: right_metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           config_timezone: Asia/Singapore
           plugin_achievements: yes
           plugin_achievements_display: compact
