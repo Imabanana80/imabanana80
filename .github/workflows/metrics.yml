@@ -17,7 +17,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: left_metrics.svg
+          filename: metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories
@@ -34,7 +34,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: right_metrics.svg
+          filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: "metadata"
           config_timezone: Asia/Singapore
