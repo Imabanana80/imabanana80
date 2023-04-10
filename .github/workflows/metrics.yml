@@ -22,6 +22,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Singapore
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
 
       - name: Right
         if: ${{ success() || failure() }}
@@ -35,13 +42,6 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
