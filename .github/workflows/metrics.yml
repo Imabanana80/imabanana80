@@ -13,14 +13,23 @@ jobs:
       contents: write
     steps:
 
-      - name: Metrics
+      - name: Left
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: left_metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
+          config_timezone: Asia/Singapore
+
+      - name: Right
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: right_metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "metadata"
           config_timezone: Asia/Singapore
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -45,7 +54,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
