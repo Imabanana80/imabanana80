@@ -1,2 +1,2 @@
-<img align="left" src="/left_metrics.svg" alt="Metrics" width="45%">
-<img align="right" src="/right_metrics.svg" alt="Metrics" width="45%">
+<img align="left" src="/metrics-left.svg" alt="Metrics" width="46%">
+<img align="right" src="/metrics-right.svg" alt="Metrics" width="46%">
