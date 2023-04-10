@@ -1,8 +1,2 @@
-<p align="center">
-  <a href="https://github.com/jstrieb/github-stats">
-    <img src="https://raw.githubusercontent.com/Imabanana80/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-  </a>
-  <a href="https://github.com/jstrieb/github-stats">
-    <img src="https://raw.githubusercontent.com/Imabanana80/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-  </a>
-</p>
+<img align="left" src="/left_metrics.svg" alt="Metrics" width="45%">
+<img align="right" src="/right_metrics.svg" alt="Metrics" width="45%">
