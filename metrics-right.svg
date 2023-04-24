@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.24582185604703" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="347.24582185604703" y="0" width="91.41816025791469" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="438.6639821139617" y="0" width="21.336017886038267" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.11893750154576" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="347.11893750154576" y="0" width="91.5210347983083" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="438.6399722998541" y="0" width="21.36002770014592" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>61.1 kB</div>
-                                <div>75.49%</div>
+                                <div>61 kB</div>
+                                <div>75.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,7 +62,7 @@
                             </div>
                             <small>
                                 <div>16 kB</div>
-                                <div>19.87%</div>
+                                <div>19.9%</div>
                             </small>
                         </div>
                     </section>
@@ -79,7 +79,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 57.9 characters per line of code written</li>
+                        <li>Has approximately 57.8 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -506,7 +506,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Apr 2023, 15:13:42 (timezone Asia/Singapore) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Apr 2023, 16:18:10 (timezone Asia/Singapore) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
