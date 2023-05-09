@@ -32,7 +32,7 @@ jobs:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: "metadata"
-          config_timezone: Asia/Singapore
+          config_timezone: Australia/Perth
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
