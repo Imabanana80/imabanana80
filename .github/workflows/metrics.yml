@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories
-          config_timezone: Asia/Singapore
+          config_timezone: Australia/Perth
           plugin_discussions: yes
           plugin_discussions_categories: yes
 
