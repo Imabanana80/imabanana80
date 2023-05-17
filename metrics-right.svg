@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.7201364215683" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="257.7201364215683" y="0" width="190.07953178067172" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.79966820224" y="0" width="12.20033179776001" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.13679354860122" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="236.13679354860122" y="0" width="221.48558059270567" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.62237414130686" y="0" width="2.377625858693127" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>78.6 kB</div>
-                                <div>56.03%</div>
+                                <div>61.8 kB</div>
+                                <div>51.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,8 +47,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>3.73 kB</div>
-                                <div>2.65%</div>
+                                <div>623 bytes</div>
+                                <div>0.52%</div>
                             </small>
                         </div>
                     </section>
@@ -62,7 +62,7 @@
                             </div>
                             <small>
                                 <div>58 kB</div>
-                                <div>41.32%</div>
+                                <div>48.15%</div>
                             </small>
                         </div>
                     </section>
@@ -79,7 +79,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 60.6 characters per line of code written</li>
+                        <li>Has approximately 60.4 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -139,7 +139,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.57894736842105 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.10526315789473 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -164,12 +164,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.89m out of 115m users</span>
+                                    <span class="gh">ranked 6.67m out of 115m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">11</div>
+                                        <div class="value">8</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 11 public repositories</div>
+                                <div class="text">Published 8 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -549,7 +549,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2023, 14:16:59 (timezone Australia/Perth) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 May 2023, 17:13:10 (timezone Australia/Perth) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
