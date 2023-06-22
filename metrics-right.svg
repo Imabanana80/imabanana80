@@ -203,7 +203,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.50m out of 118m users</span>
+                                    <span class="gh">ranked 5.51m out of 118m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
@@ -576,7 +576,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.66m out of 410m repositories</span>
+                                    <span class="gh">ranked 4.67m out of 410m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -634,7 +634,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jun 2023, 14:05:19 (timezone Australia/Perth) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Jun 2023, 17:04:50 (timezone Australia/Perth) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
