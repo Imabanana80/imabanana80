@@ -15,7 +15,7 @@ jobs:
 
       - name: Left
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: imabanana80/metrics@latest
         with:
           filename: assets/metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -34,7 +34,7 @@ jobs:
 
       - name: Right
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: imabanana80/metrics@latest
         with:
           filename: assets/metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
