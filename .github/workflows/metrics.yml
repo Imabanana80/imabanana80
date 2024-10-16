@@ -15,7 +15,7 @@ jobs:
 
       - name: Left
         if: ${{ success() || failure() }}
-        uses: imabanana80/metrics@latest
+        uses: imabanana80/metrics@master
         with:
           filename: assets/metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
