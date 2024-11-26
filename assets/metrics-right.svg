@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.5764845003801" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="298.5764845003801" y="0" width="106.99788833516345" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.57437283554356" y="0" width="22.14519807416167" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="427.71957090970517" y="0" width="10.442182616775066" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="438.16175352648025" y="0" width="10.337922684911451" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="448.4996762113917" y="0" width="7.821437621420729" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.32111383281244" y="0" width="1.978995973759045" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.30010980657147" y="0" width="1.6998901934284991" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.4550588281649" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="298.4550588281649" y="0" width="106.95437422339927" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.4094330515642" y="0" width="22.136192021434532" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="427.54562507299875" y="0" width="10.520792143298403" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="438.0664172162971" y="0" width="10.437935969401757" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="448.5043531856989" y="0" width="7.818256783778878" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.32260996947775" y="0" width="1.978191151782435" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.30080112126024" y="0" width="1.6991988787398207" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>461 kB</div>
-                                <div>64.91%</div>
+                                <div>64.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -59,13 +59,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Lua
+                                Astro
                             </div>
                             <small>
-                                <div>15.9 kB</div>
-                                <div>2.25%</div>
+                                <div>16.1 kB</div>
+                                <div>2.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -91,19 +91,19 @@
                             </div>
                             <small>
                                 <div>165 kB</div>
-                                <div>23.26%</div>
+                                <div>23.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Astro
+                                Lua
                             </div>
                             <small>
-                                <div>16.1 kB</div>
-                                <div>2.27%</div>
+                                <div>16.2 kB</div>
+                                <div>2.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -385,7 +385,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="90.35175879396985 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.13065326633166 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -404,10 +404,10 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">117</div>
+                                        <div class="value">118</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 117 repositories</div>
+                                <div class="text">Starred 118 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -535,7 +535,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.52m out of 150m users</span>
+                                    <span class="gh">ranked 2.53m out of 150m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -576,7 +576,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.38m out of 221m repositories</span>
+                                    <span class="gh">ranked 3.38m out of 226m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -625,7 +625,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.46m out of 221m repositories</span>
+                                    <span class="gh">ranked 5.46m out of 226m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -722,7 +722,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2024, 08:24:22 (timezone Australia/Perth) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 26 Nov 2024, 11:22:29 (timezone Australia/Perth) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
