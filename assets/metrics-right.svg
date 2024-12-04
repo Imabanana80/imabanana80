@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.41684488968934" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="298.41684488968934" y="0" width="106.94067987393066" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.35752476362" y="0" width="22.13335772174696" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="427.49088248536697" y="0" width="10.520092300765421" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="438.01097478613235" y="0" width="10.494850292660963" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="448.50582507879335" y="0" width="7.817255740657362" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.3230808194507" y="0" width="1.9779378658262043" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.3010186852769" y="0" width="1.6989813147230979" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.40089031709806" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="298.40089031709806" y="0" width="106.9349623922629" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.33585270936095" y="0" width="22.132174382841978" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="427.46802709220293" y="0" width="10.519529854043148" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="437.98755694624606" y="0" width="10.518882657669698" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="448.50643960391574" y="0" width="7.816837798519327" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.32327740243505" y="0" width="1.9778321172607272" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.3011095196958" y="0" width="1.698890480304126" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -65,7 +65,7 @@
                             </div>
                             <small>
                                 <div>16.2 kB</div>
-                                <div>2.28%</div>
+                                <div>2.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -576,7 +576,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.39m out of 215m repositories</span>
+                                    <span class="gh">ranked 3.39m out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -625,7 +625,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -722,7 +722,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 14:13:41 (timezone Australia/Perth) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Dec 2024, 17:12:05 (timezone Australia/Perth) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
