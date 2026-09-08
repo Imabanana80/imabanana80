@@ -18,6 +18,7 @@ jobs:
         uses: imabanana80/metrics@master
         with:
           filename: assets/metrics-left.svg
+          config_padding: 10
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories
@@ -30,6 +31,7 @@ jobs:
         uses: imabanana80/metrics@master
         with:
           filename: assets/metrics-right.svg
+          config_padding: 10
           token: ${{ secrets.METRICS_TOKEN }}
           base: "metadata"
           config_timezone: Australia/Perth
